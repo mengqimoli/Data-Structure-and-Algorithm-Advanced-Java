@@ -32,7 +32,9 @@
 ## Hash
 - [模拟哈希表](/src/tree/binary_tree)
 ## 树
+- [哈夫曼编码](/src/tree/binary_tree)
 - [平衡二叉树(左右旋转)](/src/tree/binary_tree)
+- [B+树](/src/tree/binary_tree)
 ## 图
 - [深度优先遍历(dfs)](/src/tree/binary_tree)
 - [广度优先遍历(bfs)](/src/tree/binary_tree)
