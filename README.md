@@ -24,8 +24,7 @@
     + [堆排序](/src/sort_algorithm/insertion_sort/heap_sort)
 - [归并排序](/src/sort_algorithm/insertion_sort/merge_sort)
 - [基数排序](/src/sort_algorithm/insertion_sort/radix_sort)
-    
-    + [常用排序算法总结与对比](/src/sort_algorithm/insertion_sort/selection_sort/radix_queue_sort)
+- [常用排序算法总结与对比](/src/sort_algorithm/insertion_sort/selection_sort/radix_queue_sort)
 ## 查找算法
 - [二分查找](/src/tree/binary_tree)
 - [插值查找](/src/tree/threaded_binary_tree)
